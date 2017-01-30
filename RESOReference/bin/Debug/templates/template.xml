@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClientSettings>
+  <!-- URLS -->
+  <WebAPIURI>*WebAPIURI*</WebAPIURI>
+  <AuthorizationURI>*AuthorizationURI*</AuthorizationURI>
+  <TokenURI>*TokenURI*</TokenURI>
+  <RedirectURI>*RedirectURI*</RedirectURI>
+  <!-- Credentials -->
+  <AuthenticationType>*AuthenticationType*</AuthenticationType>
+  <ClientIdentification>*ClientIdentification*</ClientIdentification>
+  <ClientSecret>*ClientSecret*</ClientSecret>
+  <UserName>*UserName*</UserName>
+  <Password>*Password*</Password>
+  <ClientScope>*ClientScope*</ClientScope>
+  <Version>*Version*</Version>
+  <!-- Settings -->
+  <Preauthenticate>*Preauthenticate*</Preauthenticate>
+  <!-- Local Result Files and Folders -->
+  <TransactionLogDirectory>*TransactionLogDirectory*</TransactionLogDirectory>
+  <ResultsDirectory>*ResultsDirectory*</ResultsDirectory>
+  <ScriptFile>*ScriptFile*</ScriptFile>
+</ClientSettings>
