@@ -79,6 +79,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.bearertokenedit = new System.Windows.Forms.TextBox();
             this.authtypebearer = new System.Windows.Forms.Label();
+            this.ValidationTest = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // SelectResultsDirectory
@@ -558,11 +559,23 @@
             this.authtypebearer.Text = "Bearer Token:";
             this.authtypebearer.Visible = false;
             // 
+            // ValidationTest
+            // 
+            this.ValidationTest.Location = new System.Drawing.Point(778, 386);
+            this.ValidationTest.Name = "ValidationTest";
+            this.ValidationTest.Size = new System.Drawing.Size(143, 23);
+            this.ValidationTest.TabIndex = 152;
+            this.ValidationTest.Tag = "Select Log Directory";
+            this.ValidationTest.Text = "Run Validation Test";
+            this.ValidationTest.UseVisualStyleBackColor = true;
+            this.ValidationTest.Click += new System.EventHandler(this.ValidationTest_Click);
+            // 
             // ReferenceClient
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(946, 490);
+            this.Controls.Add(this.ValidationTest);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.scriptfile);
             this.Controls.Add(this.label2);
@@ -674,6 +687,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox bearertokenedit;
         private System.Windows.Forms.Label authtypebearer;
+        private System.Windows.Forms.Button ValidationTest;
     }
 }
 

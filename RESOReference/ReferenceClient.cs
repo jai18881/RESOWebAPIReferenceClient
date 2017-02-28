@@ -818,6 +818,11 @@ namespace RESOReference
             textOAuthClientSecret.Visible = !showbearer;
             textOAuthClientScope.Visible = !showbearer;
         }
+
+        private void ValidationTest_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
 

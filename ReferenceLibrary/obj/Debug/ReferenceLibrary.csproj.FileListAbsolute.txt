@@ -16,3 +16,12 @@ E:\Download\RESOReference_source20161207\RESOReference\ReferenceLibrary\obj\Debu
 E:\Download\RESOReference_source20161207\RESOReference\ReferenceLibrary\obj\Debug\ReferenceLibrary.csproj.GenerateResource.Cache
 E:\Download\RESOReference_source20161207\RESOReference\ReferenceLibrary\obj\Debug\ReferenceLibrary.dll
 E:\Download\RESOReference_source20161207\RESOReference\ReferenceLibrary\obj\Debug\ReferenceLibrary.pdb
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\ReferenceLibrary\bin\Debug\ReferenceLibrary.dll
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\ReferenceLibrary\bin\Debug\ReferenceLibrary.pdb
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\ReferenceLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\ReferenceLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\ReferenceLibrary\obj\Debug\ReferenceLibrary.csprojResolveAssemblyReference.cache
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\ReferenceLibrary\obj\Debug\ReferenceLibrary.Resource.resources
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\ReferenceLibrary\obj\Debug\ReferenceLibrary.csproj.GenerateResource.Cache
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\ReferenceLibrary\obj\Debug\ReferenceLibrary.dll
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\ReferenceLibrary\obj\Debug\ReferenceLibrary.pdb
