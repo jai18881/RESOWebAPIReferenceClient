@@ -1,0 +1,9 @@
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\RESORuleEngine\obj\Debug\RESORuleEngine.Resource.resources
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\RESORuleEngine\obj\Debug\RESORuleEngine.csproj.GenerateResource.Cache
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\RESORuleEngine\bin\Debug\RESORuleEngine.dll
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\RESORuleEngine\bin\Debug\RESORuleEngine.pdb
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\RESORuleEngine\bin\Debug\Newtonsoft.Json.dll
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\RESORuleEngine\bin\Debug\Newtonsoft.Json.xml
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\RESORuleEngine\obj\Debug\RESORuleEngine.dll
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\RESORuleEngine\obj\Debug\RESORuleEngine.pdb
+E:\Drive\RESOProject\RESOGIT\RESOWebAPIReferenceClient\RESORuleEngine\obj\Debug\RESORuleEngine.csprojResolveAssemblyReference.cache
